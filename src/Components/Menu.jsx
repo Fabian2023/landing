@@ -8,7 +8,7 @@ const Menu = () => {
       style={{ backgroundImage: `url(${back})` }}
     >
       <h1 className="text-8xl mb-20 mt-[-180px] font-bold text-white">EXPERIENCES</h1>
-      <ul className="space-y-20 flex flex-col items-center"> {/* Centra los elementos de la lista horizontalmente */}
+      <ul className="space-y-20 flex flex-col items-center"> 
         <li className="text-4xl">
           <a 
             href="https://speak-ia-stand-mocion.vercel.app/" 
