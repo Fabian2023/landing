@@ -13,7 +13,7 @@ const Menu = () => {
           <a 
             href="https://speak-ia-stand-mocion.vercel.app/" 
             className="text-white text-6xl border-2 border-white px-6 py-3 rounded-3xl hover:bg-white hover:text-black transition duration-300"
-            target="_blank" 
+             
             rel="noopener noreferrer"
           >
             Speak IA
@@ -23,7 +23,7 @@ const Menu = () => {
           <a 
             href="https://photo-booth-republica-sigma.vercel.app/" 
             className="text-white text-6xl border-2 border-white px-6 py-3 rounded-3xl hover:bg-white hover:text-black transition duration-300"
-            target="_blank" 
+            
             rel="noopener noreferrer"
           >
             Photobooth
@@ -33,7 +33,7 @@ const Menu = () => {
           <a 
             href="https://memorymatch-url.example.com/" 
             className="text-white text-6xl border-2 border-white px-6 py-3 rounded-3xl hover:bg-white hover:text-black transition duration-300"
-            target="_blank" 
+            
             rel="noopener noreferrer"
           >
             Memory Match
