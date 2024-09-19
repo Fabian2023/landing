@@ -19,7 +19,7 @@ const Menu = () => {
             Speak IA
           </a>
         </li>
-        {/* <li className="text-4xl">
+        <li className="text-4xl">
           <a 
             href="https://photo-booth-republica-sigma.vercel.app/" 
             className="text-white text-6xl border-2 border-white px-6 py-3 rounded-3xl hover:bg-white hover:text-black transition duration-300"
@@ -28,7 +28,7 @@ const Menu = () => {
           >
             Photobooth
           </a>
-        </li> */}
+        </li>
         <li className="text-4xl">
           <a 
             href="https://mocion-memory-match.netlify.app/" 
